@@ -4,7 +4,7 @@
 
 This is the source for the first shellcode injection tutorial. It is a local injection with obfuscated shellcode and junk code creation at compile time.
 
-Blogpost: will be ready soon...
+Blogpost: [https://www.nosociety.de/en:it-security:blog:shellcode_injection-1](https://www.nosociety.de/en:it-security:blog:shellcode_injection-1)
 
 ## Dependencies
 
