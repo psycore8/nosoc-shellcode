@@ -8,6 +8,6 @@ Blogpost: [https://www.nosociety.de/en:it-security:blog:shellcode_injection-2](h
 
 ## Dependencies
 
-[RedSiege's Jigsaw](https://github.com/RedSiege/Jigsaw)
-[fritzone's Obfy](https://github.com/fritzone/obfy)
-https://www.bordergate.co.uk/function-name-hashing/
+- [RedSiege's Jigsaw](https://github.com/RedSiege/Jigsaw)
+- [fritzone's Obfy](https://github.com/fritzone/obfy)
+- https://www.bordergate.co.uk/function-name-hashing/
