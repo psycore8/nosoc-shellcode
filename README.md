@@ -7,7 +7,7 @@ Injecting Shellcode and bypassing Windows Defender meanwhile? Yeah, sounds good!
 Here you will find some guides to do this. The guides are the writeups of my own learning process. If you have any improvement, comment or something else, feel free to share it here.
 
 * Part 1: [https://www.nosociety.de/en:it-security:blog:shellcode_injection-1](https://www.nosociety.de/en:it-security:blog:shellcode_injection-1)
-* Part 2: In progress... source code is ready, blog post is not
+* Part 2: https://www.nosociety.de/en:it-security:blog:shellcode_injection-2
 
 ### Respect and Props
 
