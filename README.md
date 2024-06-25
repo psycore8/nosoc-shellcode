@@ -8,6 +8,7 @@ Here you will find some guides to do this. These guides are the writeups of my o
 
 * Part 1: [https://www.nosociety.de/en:it-security:blog:shellcode_injection-1](https://www.nosociety.de/en:it-security:blog:shellcode_injection-1)
 * Part 2: https://www.nosociety.de/en:it-security:blog:shellcode_injection-2
+* Part 3: soon...
 
 ### Respect and Props
 
