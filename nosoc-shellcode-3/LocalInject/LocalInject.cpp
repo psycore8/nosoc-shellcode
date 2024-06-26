@@ -11,9 +11,8 @@ int main(int argc, char** argv) {
 
 	printf("#nosoc - expect the unexpected\n");
 	printf("www.nosociety.de\n\n");
-
-	HINSTANCE hInstLib = LoadLibrary(TEXT("user32.dll"));
-	int i = 0, len = 0, offset = 0x0;
+	
+	int len = 0, offset = 0x0;
 	void* stage = VirtualAlloc(0, 0x1000, 0x1000, 0x40);
 	void (*target)();
 	printf("[*] Memory allocated: 0x%08x\n", stage);
